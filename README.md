@@ -1,7 +1,7 @@
 # Nao_Launcher
 Launch all your games from one launcher!
 
-# License
+## License
 MIT License
 
 Copyright (c) 2022 iTzNao (iTz_Nao, Nao, Nao.gg)

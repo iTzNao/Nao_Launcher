@@ -8,14 +8,8 @@ Console.ResetColor();
 
 while (true)
 {
-    Console.Write("    (@@@@ @@@@@@@@@@*       @@@@@@@@@@@#@@@@@      @@@@@@@@@@@@@     ");
-    Console.Write("    (@@@@@@     @@@@@@    @@@@@@     ,@@@@@@@    @@@@@&     @@@@@@ \n");
-    Console.Write("    (@@@@        %@@@@   @@@@@          @@@@@   @@@@%         @@@@@\n");
-    Console.Write("    (@@@@         @@@@   @@@@#          @@@@@   @@@@           @@@@\n");
-    Console.Write("    (@@@@         @@@@   @@@@@          @@@@@   @@@@@         @@@@@\n");
-    Console.Write("    (@@@@         @@@@    @@@@@@@   .@@@@@@@@    @@@@@@#   @@@@@@@ \n");
-    Console.Write("    (@@@@         @@@@      (@@@@@@@@@@ @@@@@      %@@@@@@@@@@@    \n");
-    Console.Write("      Nao_Launcher - Launch all your games from one launcher!      \n\n");
+    Console.Write("Nao_Launcher\n");
+    Console.Write("--- Launch all your games from one launcher!\n");
 
     Console.Write("Select a game from the list below:\n");
 
